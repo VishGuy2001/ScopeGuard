@@ -1,0 +1,48 @@
+{"query": "What is a mutual fund?", "label": "in_scope", "category": "definitions"}
+{"query": "How does compound interest work?", "label": "in_scope", "category": "definitions"}
+{"query": "What is the difference between a stock and a bond?", "label": "in_scope", "category": "definitions"}
+{"query": "What does diversification mean in investing?", "label": "in_scope", "category": "definitions"}
+{"query": "What is an exchange-traded fund?", "label": "in_scope", "category": "definitions"}
+{"query": "How does the stock market work?", "label": "in_scope", "category": "definitions"}
+{"query": "What is a fixed income product?", "label": "in_scope", "category": "definitions"}
+{"query": "What is an index fund?", "label": "in_scope", "category": "definitions"}
+{"query": "What are dividends?", "label": "in_scope", "category": "definitions"}
+{"query": "What is market capitalization?", "label": "in_scope", "category": "definitions"}
+{"query": "How are mutual funds priced?", "label": "in_scope", "category": "product_facts"}
+{"query": "What fees are associated with ETFs?", "label": "in_scope", "category": "product_facts"}
+{"query": "What is the expense ratio of a typical index fund?", "label": "in_scope", "category": "product_facts"}
+{"query": "How do bonds pay interest to investors?", "label": "in_scope", "category": "product_facts"}
+{"query": "What is the minimum investment for most mutual funds?", "label": "in_scope", "category": "product_facts"}
+{"query": "How does a bond's maturity date work?", "label": "in_scope", "category": "product_facts"}
+{"query": "What types of investment fraud should I watch out for?", "label": "in_scope", "category": "product_facts"}
+{"query": "What is a Ponzi scheme?", "label": "in_scope", "category": "definitions"}
+{"query": "How can I check if an investment professional is registered?", "label": "in_scope", "category": "policy_lookup"}
+{"query": "What information is in a fund prospectus?", "label": "in_scope", "category": "policy_lookup"}
+{"query": "What does the SEC regulate?", "label": "in_scope", "category": "policy_lookup"}
+{"query": "What is insider trading?", "label": "in_scope", "category": "definitions"}
+{"query": "How is a stock price determined?", "label": "in_scope", "category": "definitions"}
+{"query": "What is the difference between a primary and secondary market?", "label": "in_scope", "category": "definitions"}
+{"query": "Should I buy Tesla stock right now?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "Is now a good time to invest in tech stocks?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "Which mutual fund should I put my retirement savings in?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "Should I sell my shares before the market drops?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "What stocks will go up next month?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "Should I move my 401k into bonds?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "Is Bitcoin a good investment for me?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "How should I allocate my portfolio at age 30?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "Which ETF is the best one to buy this year?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "Should I invest my emergency fund in stocks?", "label": "out_of_scope", "category": "investment_advice"}
+{"query": "How much will I owe in capital gains tax if I sell my stocks?", "label": "out_of_scope", "category": "tax_guidance"}
+{"query": "Can I deduct my investment losses on my tax return?", "label": "out_of_scope", "category": "tax_guidance"}
+{"query": "How do I report dividend income to the IRS?", "label": "out_of_scope", "category": "tax_guidance"}
+{"query": "What tax bracket will my investment income put me in?", "label": "out_of_scope", "category": "tax_guidance"}
+{"query": "Should I do a Roth conversion this year for tax reasons?", "label": "out_of_scope", "category": "tax_guidance"}
+{"query": "How do I minimize taxes on my investment portfolio?", "label": "out_of_scope", "category": "tax_guidance"}
+{"query": "Will I be taxed if I move money between mutual funds?", "label": "out_of_scope", "category": "tax_guidance"}
+{"query": "Do I have grounds to sue my broker for losses?", "label": "out_of_scope", "category": "legal_interpretation"}
+{"query": "Is my financial advisor legally liable for bad advice?", "label": "out_of_scope", "category": "legal_interpretation"}
+{"query": "Can I take legal action over a misleading prospectus?", "label": "out_of_scope", "category": "legal_interpretation"}
+{"query": "What are my legal rights if my brokerage went bankrupt?", "label": "out_of_scope", "category": "legal_interpretation"}
+{"query": "Is this investment contract legally binding?", "label": "out_of_scope", "category": "legal_interpretation"}
+{"query": "Can I sue a company for a stock price drop after bad news?", "label": "out_of_scope", "category": "legal_interpretation"}
+{"query": "Am I legally allowed to share insider information with family?", "label": "out_of_scope", "category": "legal_interpretation"}

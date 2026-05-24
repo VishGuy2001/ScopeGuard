@@ -1,0 +1,24 @@
+# --- ScopeGuard additions (GitHub's Python template covers the rest) ---
+
+# Secrets -- NEVER commit the real key
+.env
+
+# Generated data artifacts (rebuilt by scripts; not source)
+data/kb_chunks.jsonl
+data/kb_meta.jsonl
+data/kb.index
+
+# Trained model + training logs (large; regenerate with classifier/train.py)
+classifier/model/
+runs/
+
+# Evaluation outputs (regenerate with eval/run_eval.py + metrics.py)
+eval/results.csv
+eval/pareto.png
+
+# --- Standard Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
