@@ -1,0 +1,10 @@
+openai
+faiss-cpu
+transformers
+torch
+scikit-learn
+pandas
+matplotlib
+python-dotenv
+datasets
+tqdm
